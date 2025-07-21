@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563226001571",
+    "project_id": "monicadintino",
+    "storage_bucket": "monicadintino.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563226001571:android:f0fc9051edcd84b34bff16",
+        "android_client_info": {
+          "package_name": "com.monica.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDth25u89NJetWFY1Ga4Cq0Z1Hk0f4A__E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
